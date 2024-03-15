@@ -30,9 +30,9 @@ Our research aim to answer the following research questions:
 
 ### Content
 
-This repository includes the following folders:
+This repository includes the following directories:
 
-- code: Notebooks and scripts required to replicate our experiments, divided by RQ.
-- data: Intermediate CSV files after preprocessing, divided by RQ.
-- results: Detailed results of classification performance and global explanations (RQ1), and local explanations (RQ2).
-- survey: For RQ3, we provide the complete survey, aggregated responses and plots. 
+- [code](https://github.com/jrromero/xai4model_comprehension/tree/main/code): Notebooks and scripts required to replicate our experiments, divided by RQ.
+- [data](https://github.com/jrromero/xai4model_comprehension/tree/main/data): Intermediate CSV files after preprocessing, divided by RQ.
+- [results](https://github.com/jrromero/xai4model_comprehension/tree/main/results): Detailed results of classification performance and global explanations (RQ1), and local explanations (RQ2).
+- [survey](https://github.com/jrromero/xai4model_comprehension/tree/main/survey): For RQ3, we provide the complete survey, aggregated responses and plots. 
