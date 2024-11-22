@@ -2,13 +2,12 @@
 _Supplementary material_ (July 21, 2024)
 
 ## Authors
-- Francisco Javier Alcaide (a)
-- José Raúl Romero (a - corresponding author)
-- Aurora Ramírez (b)
+- Francisco Javier Alcaide 
+- José Raúl Romero (corresponding author)
+- Aurora Ramírez 
 
-(a) Dept. Computer Science and Numerical Analysis, University of Córdoba, 14071, Córdoba, Spain
+Dept. Computer Science and Numerical Analysis, University of Córdoba, 14071, Córdoba, Spain
 
-(b) Dept. Computer Science and Programming Languages, University of Málaga, 29071, Málaga, Spain
 
 ## Abstract
 
