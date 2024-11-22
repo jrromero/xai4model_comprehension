@@ -1,5 +1,5 @@
 # Can Explainable Artificial Intelligence Support Software Modelers in Model Comprehension?
-_Supplementary material_ (July 21, 2024)
+_Supplementary material_ (November 22, 2024)
 
 ## Authors
 - Francisco Javier Alcaide 
